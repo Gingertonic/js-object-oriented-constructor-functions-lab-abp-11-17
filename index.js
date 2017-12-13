@@ -26,4 +26,8 @@ class PickupLocation {
     this.address = address,
     this.city = city
   }
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> 408f7e8a4b8da72f5dd86117010d611cef34be02
